@@ -1,0 +1,9 @@
+{
+    "appId": "com.cakra.nime",
+    "appName": "cakrAnime",
+    "webDir": "dist",
+    "dependencies": {
+        "vite": "^4.0.0",
+        "react": "^18.0.0"
+    }
+}
